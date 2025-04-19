@@ -2,27 +2,24 @@
 
 This repository contains **multiple Colab notebooks** that demonstrate:
 
-- 🌱 **Data Augmentation** and **Generalization Techniques** using TensorFlow, KerasCV, FastAI, and other libraries.
-- 🧪 **A/B Testing** to compare the effectiveness of each technique.
-- 🔐 **Regularization Techniques** like L1/L2, Dropout, EarlyStopping, Monte Carlo Dropout, and more.
-- ⚙️ **Advanced Keras Constructs** like custom losses, metrics, optimizers, layers, activations, and full training loops.
-
-Every notebook includes **code walkthroughs** recorded as videos and paired with annotations for clarity and reproducibility.
-
-
 ---
 
-## ✅ Part 1: Data Augmentation & Generalization (TensorFlow/KerasCV/FastAI)
+## Part 1: Data Augmentation & Generalization (TensorFlow/KerasCV/FastAI)
 
-| Notebook | Description | Colab | Video |
-|----------|-------------|-------|--------|
-| `1a_L1_L2_Dropout_EarlyStop` | Basic regularization with L1, L2, Dropout, EarlyStopping. | [Open](#) | [Watch](#) |
-| `1b_MonteCarloDropout_BatchNorm_Init` | Monte Carlo Dropout, BatchNorm, initializer comparison. | [Open](#) | [Watch](#) |
-| `1c_CustomRegularization_TensorBoard_Callbacks` | Custom dropout, regularizer, TensorBoard, callbacks. | [Open](#) | [Watch](#) |
-| `1d_KerasTuner_HPO` | Hyperparameter tuning with Keras Tuner. | [Open](#) | [Watch](#) |
-| `1e_KerasCV_Augmentation` | KerasCV-based augmentation pipeline. | [Open](#) | [Watch](#) |
-| `1f_MultiModal_Augmentation_Image_Text_Video` | Augmentation for image, video, text (nlpaug), time series, tabular, speech using AugLy and others. | [Open](#) | [Watch](#) |
-| `1g_FastAI_Augmentation_Showcase` | Data augmentation using FastAI & TTA (Test-Time Augmentation). | [Open](#) | [Watch](#) |
+Below are all of the notebooks in this section—now consolidated into a single Colab and full walkthrough video.
+
+| Notebook                                                      | Description                                                                                                 |
+| ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| `1a_L1_L2_Dropout_EarlyStop`                                  | Basic regularization with L1, L2, Dropout, EarlyStopping.                                                    |
+| `1b_MonteCarloDropout_BatchNorm_Init`                         | Monte Carlo Dropout, BatchNorm, initializer comparison.                                                      |
+| `1c_CustomRegularization_TensorBoard_Callbacks`               | Custom dropout, regularizer, TensorBoard, callbacks.                                                         |
+| `1d_KerasTuner_HPO`                                           | Hyperparameter tuning with Keras Tuner.                                                                      |
+| `1e_KerasCV_Augmentation`                                     | KerasCV-based augmentation pipeline.                                                                         |
+| `1f_MultiModal_Augmentation_Image_Text_Video`                 | Augmentation for image, video, text (nlpaug), time series, tabular, speech using AugLy and others.           |
+| `1g_FastAI_Augmentation_Showcase`                             | Data augmentation using FastAI & TTA (Test‑Time Augmentation).                                                |
+
+- **Full Colab Notebook**: [Open combined notebook](YOUR_COLAB_LINK_HERE)  
+- **Walkthrough Video**: [Watch the demo](YOUR_VIDEO_LINK_HERE)
 
 ---
 
