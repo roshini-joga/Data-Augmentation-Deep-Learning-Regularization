@@ -18,7 +18,7 @@ Below are all of the notebooks in this section—now consolidated into a single 
 | `1f_MultiModal_Augmentation_Image_Text_Video`                 | Augmentation for image, video, text (nlpaug), time series, tabular, speech using AugLy and others.           |
 | `1g_FastAI_Augmentation_Showcase`                             | Data augmentation using FastAI & TTA (Test‑Time Augmentation).                                                |
 
-- **Full Colab Notebook**: [Open combined notebook](YOUR_COLAB_LINK_HERE)  
+- **Full Colab Notebook**: [Open combined notebook](https://colab.research.google.com/drive/1sDhgg7Dw-RxwHJ4dlngy2S3bTNsDgZWJ#scrollTo=niuExaHCBJVQ)  
 - **Walkthrough Video**: [Watch the demo](YOUR_VIDEO_LINK_HERE)
 
 ---
