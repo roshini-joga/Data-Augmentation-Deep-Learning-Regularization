@@ -32,4 +32,7 @@ Below are all of the notebooks in this section—now consolidated into a single 
 | `2c_CustomMetric_Layer_Model_Optimizer` | Custom metric, layer, model, optimizer. | [Open](#) | [Watch](#) |
 | `2d_CustomTrainingLoop_FashionMNIST` | Full training loop from scratch on FashionMNIST. | [Open](#) | [Watch](#) |
 
+- **Full Colab Notebook**: [Open combined notebook](https://colab.research.google.com/drive/1sDhgg7Dw-RxwHJ4dlngy2S3bTNsDgZWJ#scrollTo=niuExaHCBJVQ)  
+- **Walkthrough Video**: [Watch the demo](YOUR_VIDEO_LINK_HERE)
+
 ---
