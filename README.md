@@ -19,7 +19,7 @@ Below are all of the notebooks in this section—now consolidated into a single 
 | `1g_FastAI_Augmentation_Showcase`                             | Data augmentation using FastAI & TTA (Test‑Time Augmentation).                                                |
 
 - **Full Colab Notebook**: [Open combined notebook](https://colab.research.google.com/drive/1sDhgg7Dw-RxwHJ4dlngy2S3bTNsDgZWJ#scrollTo=niuExaHCBJVQ)  
-- **Walkthrough Video**: [Watch the demo](YOUR_VIDEO_LINK_HERE)
+- **Walkthrough Video**: [Watch the demo](https://youtu.be/WR5rCwJq3lw)
 
 ---
 
@@ -32,7 +32,7 @@ Below are all of the notebooks in this section—now consolidated into a single 
 | `2c_CustomMetric_Layer_Model_Optimizer` | Custom metric, layer, model, optimizer. | [Open](#) | [Watch](#) |
 | `2d_CustomTrainingLoop_FashionMNIST` | Full training loop from scratch on FashionMNIST. | [Open](#) | [Watch](#) |
 
-- **Full Colab Notebook**: [Open combined notebook](https://colab.research.google.com/drive/1sDhgg7Dw-RxwHJ4dlngy2S3bTNsDgZWJ#scrollTo=niuExaHCBJVQ)  
-- **Walkthrough Video**: [Watch the demo](YOUR_VIDEO_LINK_HERE)
+- **Full Colab Notebook**: [Open combined notebook](https://colab.research.google.com/drive/1yKnQhXBitq2oammbNV5vc6QskElKZ49y#scrollTo=2-g3iHNxstAJ)  
+- **Walkthrough Video**: [Watch the demo](https://youtu.be/RqIBQWNgq78)
 
 ---
